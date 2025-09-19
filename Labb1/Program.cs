@@ -56,5 +56,5 @@ for (int startIndex = 0; startIndex < userInput.Length; startIndex++)
 }
 
 Console.WriteLine();
-Console.WriteLine($"Totalen blir = {totalAdded}");
+Console.WriteLine($"Summan av alla magentafärgade tal är = {totalAdded}");
 Console.ReadKey();
